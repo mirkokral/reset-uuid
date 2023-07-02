@@ -4,7 +4,7 @@
 	"author": "Xandertron",
 	"description": "Resets your UUID, you can also change it",
 	"version": "1.0",
-	"dependencies": ["ui-lib"],
+	"dependencies": ["ui_lib"],
 	"minGameVersion": 140,
 	"hidden": true
 }
